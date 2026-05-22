@@ -87,19 +87,8 @@ COMPLIES WITH ALL APPLICABLE LAWS AND REGULATIONS IN THEIR JURISDICTION.
 git clone https://github.com/KhanAiDev25/YTDownloader.git
 cd YTDownloader
 
-# Step 2: Create a virtual environment (recommended)
-python -m venv .venv
-.venv\Scripts\activate
-
-# Step 3: Install dependencies
+# Step 2: Install dependencies
 pip install -r requirements.txt
 
-# Step 4: Run the application
+# Step 3: Run the application
 python downloader.py
-
-1. Download YTDownloader.exe from the Releases page
-2. Double-click to run
-3. If Windows SmartScreen appears, click "More info" → "Run anyway"
-4. Paste a YouTube URL and click "Load Video"
-5. Choose format and quality
-6. Click "Start Download"
